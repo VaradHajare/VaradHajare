@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaradHajare
-- 👀 I’m interested in programming using python.
-- 🌱 I’m currently learning Python and MySQL.
+- 👀 I’m interested in programming using C++.
+- 🌱 I have learned Python and MySQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
