@@ -34,12 +34,6 @@ Here are some of my notable projects:
 - Data stored in CSV format, visualized using Matplotlib.  
 - **Tech Stack**: Python, Matplotlib, Pandas
 
-### 🎵 Audivine Music Player  
-*2023–2024*  
-- Built a modern YouTube music player with a sleek dark-themed interface using Python and Tkinter.  
-- Features include searching, playing, and managing YouTube audio content.  
-- **Tech Stack**: Python, Tkinter
-
 ### 🌍 Google Solution Challenge 2025 (Baker's Precision App)
 *2024–2025*  
 - Participated on a project for the Solution Challenge powered by H2S.  
