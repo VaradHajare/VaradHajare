@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Varad Hajare!
 
-I’m a **Computer Engineering student** at AISSMS College of Engineering, Pune, passionate about innovative research, development, and creative problem-solving. I’m currently enhancing my skills in programming, data analysis, and software development through academic projects and collaborative initiatives.
+I’m a **Computer Engineering student** at AISSMS College of Engineering, Pune, passionate about innovative research, development, and creative problem-solving. I’m currently enhancing my skills in Data Structures and Algorithms, Artificial Intelligence, and software development through academic projects and collaborative initiatives.
 
 ---
 
@@ -13,15 +13,22 @@ I’m a **Computer Engineering student** at AISSMS College of Engineering, Pune,
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, C++, Java
-- **Libraries/Frameworks**: NumPy, Matplotlib, Pandas, Tkinter
-- **Concepts**: Object-Oriented Programming (OOP), Database Management System (DBMS) 
+- **Programming Languages**: Python, C++, Java, JavaScript
+- **Libraries/Frameworks**: React, Node.js, Expo, NumPy, Matplotlib, Pandas, Tkinter
+- **Concepts**: Object-Oriented Programming (OOP), Database Management System (DBMS), Computer Networks(CN), Theory of Computation(TOC) 
 - **Tools**: Git, GitHub, Google Forms (for surveys), data visualization
 
 ---
 
 ## 📚 Projects
 Here are some of my notable projects:
+
+### 🌍 Google Solution Challenge 2025 (Baker's Precision App)
+*2024–2025*  
+- Participated on a project for the Solution Challenge powered by H2S.  
+- The problem statement is Precision Baking: AI for Accurate Ingredient Measurement in Grams.
+- Developed an Android apk file serving as a prototype for the statement along with the integration of Gemini API for chatbot assistance.
+- **Repository**: [https://github.com/VaradHajare/BakeryPrecisionApp]
 
 ### 📖 Online Bookstore Website (Inkwell)  
 *2023–2024*  
@@ -33,13 +40,6 @@ Here are some of my notable projects:
 - Created a graphical analysis of video game sales across different years using Python.  
 - Data stored in CSV format, visualized using Matplotlib.  
 - **Tech Stack**: Python, Matplotlib, Pandas
-
-### 🌍 Google Solution Challenge 2025 (Baker's Precision App)
-*2024–2025*  
-- Participated on a project for the Solution Challenge powered by H2S.  
-- The problem statement is Precision Baking: AI for Accurate Ingredient Measurement in Grams.
-- Developed an Android apk file serving as a prototype for the statement along with the integration of Gemini API for chatbot assistance.
-- **Repository**: [https://github.com/VaradHajare/BakeryPrecisionApp]
 
 ---
 
