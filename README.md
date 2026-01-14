@@ -24,20 +24,24 @@ I’m a **Computer Engineering student** at AISSMS College of Engineering, Pune,
 Here are some of my notable projects:
 
 ### 🌍 Google Solution Challenge 2025 (Baker's Precision App)
-*2024–2025*  
-- Participated on a project for the Solution Challenge powered by H2S.  
+*2024–2025* - Participated on a project for the Solution Challenge powered by H2S.  
 - The problem statement is Precision Baking: AI for Accurate Ingredient Measurement in Grams.
 - Developed an Android apk file serving as a prototype for the statement along with the integration of Gemini API for chatbot assistance.
 - **Repository**: [https://github.com/VaradHajare/BakeryPrecisionApp]
 
+### 📰 News Summarizer
+*Sep 2025 – Oct 2025*
+- Engineered an automated tool that aggregates news articles from various sources and generates concise summaries using Natural Language Processing (NLP).
+- Implemented efficient keyword extraction algorithms to reduce average reading time by 60%, improving information consumption.
+- **Tech Stack**: Python, BeautifulSoup, NLTK
+- **Repository**: [https://github.com/VaradHajare/news-summarizer]
+
 ### 📖 Online Bookstore Website (Inkwell)  
-*2023–2024*  
-- Developed a website for buying and selling books with an email-based communication system to protect user privacy (e.g., phone numbers).  
+*2023–2024* - Developed a website for buying and selling books with an email-based communication system to protect user privacy (e.g., phone numbers).  
 - **Tech Stack**: Django(Backend), HTML, CSS (Frontend)  
 
 ### 🎮 Video Game Sales Analysis  
-*2022–2023*  
-- Created a graphical analysis of video game sales across different years using Python.  
+*2022–2023* - Created a graphical analysis of video game sales across different years using Python.  
 - Data stored in CSV format, visualized using Matplotlib.  
 - **Tech Stack**: Python, Matplotlib, Pandas
 
