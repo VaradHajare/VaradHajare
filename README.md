@@ -39,6 +39,7 @@ Here are some of my notable projects:
 ### 📖 Online Bookstore Website (Inkwell)  
 *2023–2024* - Developed a website for buying and selling books with an email-based communication system to protect user privacy (e.g., phone numbers).  
 - **Tech Stack**: Django(Backend), HTML, CSS (Frontend)  
+- **Repository**: [https://github.com/VaradHajare/PBL_OnlineBookstoreWebsite]
 
 ### 🎮 Video Game Sales Analysis  
 *2022–2023* - Created a graphical analysis of video game sales across different years using Python.  
