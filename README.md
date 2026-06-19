@@ -23,6 +23,11 @@ Full-stack AML web app that builds a directed transaction graph from CSV data an
 
 `TypeScript` `Next.js` `Graph Algorithms` `Groq API`
 
+### [Lumina AI: Multi-Source RAG Chat Agent](https://github.com/VaradHajare/Lumina-AI-Multi-Source-RAG-Chat-Agent)
+Citation-backed RAG research assistant for chatting with PDFs, web articles, and YouTube videos through OpenRouter. Responses include rich-text citations that hyperlink directly to the source passage, with markdown rendering, syntax-highlighted code blocks, and a custom observable store for state management.
+
+`React` `Vite` `OpenRouter API` `pdfjs-dist`
+
 ### [Employee Attrition Predictor](https://github.com/VaradHajare/employee-attrition-predictor)
 ML classification model predicting employee attrition risk from HR data, built as a Django app and deployed on Vercel.
 
@@ -51,7 +56,7 @@ Real-time vessel tracking app streaming live AIS data over WebSocket and plottin
 | **ML / Data** | `Python` `NumPy` `Pandas` `Scikit-learn` `XGBoost` `SHAP` `Transformers` `NLTK` |
 | **Languages** | `Python` `C++` `JavaScript` `TypeScript` `Java` |
 | **Web / Backend** | `React` `Next.js` `FastAPI` `Django` `Node.js` `Express.js` |
-| **LLM APIs** | `Groq API` `Gemini API` |
+| **LLM APIs** | `Groq API` `Gemini API` `OpenRouter API` |
 | **Data / Cloud** | `PostgreSQL` `MongoDB` `Supabase` `AWS` `Docker` `Git` |
 
 <br>
