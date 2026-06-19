@@ -33,15 +33,10 @@ Converts vague baking measurements ("a pinch," "a cup") into precise units (gram
 
 `Gemini API` `Chatbot`
 
-### Pune Traffic and Accident Hotspot Analysis `in progress`
-Geospatial ML pipeline identifying high-risk traffic zones in Pune from road network and accident data using SHAP for interpretable risk attribution.
+### [Ship Tracker](https://github.com/VaradHajare/ship-tracker)
+Real-time vessel tracking app streaming live AIS data over WebSocket and plotting ship positions, headings, and metadata on an interactive map.
 
-`Python` `OSMnx` `GeoPandas` `XGBoost` `SHAP`
-
-### Real-Time News Bias Detector `in progress`
-Transformer-based text classification system analyzing news articles for ideological bias.
-
-`Python` `Transformers` `FastAPI` `React`
+`React` `Node.js` `Leaflet.js` `AISStream WebSocket`
 
 <br>
 
@@ -64,6 +59,4 @@ Transformer-based text classification system analyzing news articles for ideolog
 ## Connect
 
 📧 [work.varadhajare@gmail.com](mailto:work.varadhajare@gmail.com) <br>
-🔗 [LinkedIn](https://www.linkedin.com/in/varad-hajare-420b2b321) 
-
-</div>
+🔗 [LinkedIn](https://www.linkedin.com/in/varad-hajare-420b2b321)
