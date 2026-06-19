@@ -1,73 +1,65 @@
-# 👋 Hi, I’m Varad Hajare!
+<h1 align="center">Hi, I'm Varad Hajare</h1>
+<h3 align="center">Computer Engineering student building applied ML and full-stack AI systems</h3>
 
-I’m a **Computer Engineering student** at AISSMS College of Engineering, Pune, passionate about innovative research, development, and creative problem-solving. I’m currently enhancing my skills in Data Structures and Algorithms, Artificial Intelligence, and software development through academic projects and collaborative initiatives.
-
----
-
-## 🚀 About Me
-- 🎓 **Education**: B.E. in Computer Engineering, AISSMS College of Engineering, Pune (2023–Present)  
-- 🏫 **Higher Secondary**: The Lexicon International School, Wagholi (CBSE, 2020–2023)
-- 🌟 **Key Skills**: Friendly, collaborative, good listener, courteous, helpful, reliable
-- 🌐 **Languages**: English, Marathi, Hindi
+<p align="center">
+Final Year, AISSMS College of Engineering, Pune (SPPU)
+</p>
 
 ---
 
-## 🛠️ Technical Skills
-- **Programming Languages**: Python, C++, Java, JavaScript
-- **Libraries/Frameworks**: React, Node.js, Expo, NumPy, Matplotlib, Pandas, Tkinter
-- **Concepts**: Object-Oriented Programming (OOP), Database Management System (DBMS), Computer Networks(CN), Theory of Computation(TOC) 
-- **Tools**: Git, GitHub, Google Forms (for surveys), data visualization
+### About
+
+I build machine learning and full-stack systems end to end: data collection, feature engineering, model training, evaluation, and deployment. I care about models that explain their own predictions, not just black-box outputs. Recent work spans NLP, recommendation/credit modeling, computer vision, and geospatial ML.
 
 ---
 
-## 📚 Projects
-Here are some of my notable projects:
+### Projects
 
-### 🌍 Google Solution Challenge 2025 (Baker's Precision App)
-*2024–2025* - Participated on a project for the Solution Challenge powered by H2S.  
-- The problem statement is Precision Baking: AI for Accurate Ingredient Measurement in Grams.
-- Developed an Android apk file serving as a prototype for the statement along with the integration of Gemini API for chatbot assistance.
-- **Repository**: [https://github.com/VaradHajare/BakeryPrecisionApp]
+**Employee Attrition Predictor**
+ML classification model predicting employee attrition risk from HR data, built as a Django app and deployed on Vercel.
+`Python` `Django` `Scikit-learn` `Vercel`
 
-### 📰 News Summarizer
-*Sep 2025 – Oct 2025*
-- Engineered an automated tool that aggregates news articles from various sources and generates concise summaries using Natural Language Processing (NLP).
-- Implemented efficient keyword extraction algorithms to reduce average reading time by 60%, improving information consumption.
-- **Tech Stack**: Python, BeautifulSoup, NLTK
-- **Repository**: [https://github.com/VaradHajare/news-summarizer]
+**Baker's Precision App**
+Converts vague baking measurements ("a pinch," "a cup") into precise units (grams, pounds, litres), with an AI chatbot powered by the Gemini API for bakery-related queries.
+`Gemini API` `Chatbot`
 
-### 📖 Online Bookstore Website (Inkwell)  
-*2023–2024* - Developed a website for buying and selling books with an email-based communication system to protect user privacy (e.g., phone numbers).  
-- **Tech Stack**: Django(Backend), HTML, CSS (Frontend)  
-- **Repository**: [https://github.com/VaradHajare/PBL_OnlineBookstoreWebsite]
+**Face Recognition Attendance System**
+Attendance automation using real-time facial recognition, with enrollment, tracking, and a student management dashboard.
+`Python` `OpenCV` `NumPy` `Tkinter` `SQL`
 
-### 🎮 Video Game Sales Analysis  
-*2022–2023* - Created a graphical analysis of video game sales across different years using Python.  
-- Data stored in CSV format, visualized using Matplotlib.  
-- **Tech Stack**: Python, Matplotlib, Pandas
+**Pune Traffic and Accident Hotspot Analysis** *(in progress)*
+Geospatial ML pipeline identifying high-risk traffic zones in Pune from road network and accident data, using SHAP for interpretable risk attribution.
+`Python` `OSMnx` `GeoPandas` `XGBoost` `SHAP`
 
----
+**Real-Time News Bias Detector** *(in progress)*
+Transformer-based text classification system analyzing news articles for ideological bias.
+`Python` `Transformers` `FastAPI` `React`
 
-## 📜 Courses & Certifications
-- **Artificial Intelligence for All** - Indo Universal Collaboration for Engineering Education (Aug 2025)
-- **The Complete SQL BootCamp: Go From Zero to Hero** – Udemy (Jan 2025)
-- **Big Data 101** – IBM SkillBuild (Dec 2024)
-- **AWS for Beginners** – Great Learning (Sep 2024)
+**Credit Score Improvement Tracker** *(in progress)*
+Credit health platform with score simulation, a recommendation engine, and goal tracking.
+`React` `FastAPI` `Supabase` `PostgreSQL`
+
+Smaller builds also in my repos: a hands-free YouTube controller (OpenCV + speech recognition), a MERN event ticketing platform, and a React/Express news aggregator.
 
 ---
 
-## 📫 Get in Touch
-- 📧 **Email**: [work.varadhajare@gmail.com](mailto:work.varadhajare@gmail.com)
-- 📞 **Phone**: +91 7276193779
-- 🔗 **LinkedIn**: [Varad Hajare](https://www.linkedin.com/in/varad-hajare-420b2b321/)  
-- 💻 **GitHub**: You're already here! Check out my repositories below.
+### Technical Toolkit
+
+**ML / Data**
+`Python` `NumPy` `Pandas` `Scikit-learn` `XGBoost` `SHAP` `Transformers` `NLTK`
+
+**Languages**
+`Python` `C++` `JavaScript` `TypeScript` `Java`
+
+**Web / Backend**
+`React` `FastAPI` `Django` `Node.js` `Express.js`
+
+**Data / Cloud**
+`PostgreSQL` `MongoDB` `Supabase` `AWS` `Docker` `Git`
 
 ---
 
-## 🌟 Fun Facts
-- I’m a good listener and love collaborating on projects that make a difference.
-- I enjoy exploring new technologies and tackling complex challenges with creative solutions.
-  
----
-
-⭐️ **Thanks for visiting my profile! Don’t forget to star my repositories if you find them interesting!**
+### Connect
+📧 work.varadhajare@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/varad-hajare-420b2b321)
+💻 [GitHub](https://github.com/VaradHajare)
