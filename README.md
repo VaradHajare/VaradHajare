@@ -12,11 +12,16 @@
 
 ## About
 
-I build machine learning and full-stack systems end to end i.e. data collection, feature engineering, model training, evaluation, and deployment. Recent work spans NLP, recommendation/credit modeling, computer vision, and geospatial ML.
+I build end-to-end machine learning systems, managing the entire lifecycle from data pipeline engineering to interactive web deployment. My portfolio spans a diverse range of domains including classical ML (credit modeling, recommendation engines), Natural Language Processing (Multi-Source RAG) and deep learning applied to Computer Vision. I am currently focused on developing scalable, production-ready AI tools that have a tangible real-world impact.
 
 <br>
 
 ## Projects
+
+### [Forest Fire Detection using Deep Learning](https://github.com/VaradHajare/Forest-Fire-Detection-using-Deep-Learning)
+End-to-end computer vision system to detect forest fires from landscape imagery. Engineered custom CNN architectures from scratch alongside fine-tuned transfer learning models (ResNet18, MobileNetV2) to achieve ~99% accuracy on small datasets. Features visual model interpretability using Grad-CAM and EigenCAM to validate feature extraction, deployed as an interactive Streamlit web app.
+
+`PyTorch` `Computer Vision` `Transfer Learning` `Streamlit`
 
 ### [Graph-Based Money Muling Detection and Analysis](https://github.com/VaradHajare/Graph-Based-Money-Muling-Detection-and-Analysis)
 Full-stack AML web app that builds a directed transaction graph from CSV data and detects money mule cycles, smurfing networks, and layered shell accounts using custom graph algorithms (temporal cycle detection, sliding-window fan-in/fan-out analysis, BFS-based shell chain detection). Deterministic 0-100 suspicion scoring, interactive canvas-based graph visualization, and Groq-generated investigative reports.
@@ -53,7 +58,7 @@ Real-time vessel tracking app streaming live AIS data over WebSocket and plottin
 
 | | |
 |---|---|
-| **ML / Data** | `Python` `NumPy` `Pandas` `Scikit-learn` `XGBoost` `SHAP` `Transformers` `NLTK` |
+| **ML / Data** | `Python` `PyTorch` `NumPy` `Pandas` `Scikit-learn` `XGBoost` `SHAP` `Transformers` `NLTK` |
 | **Languages** | `Python` `C++` `JavaScript` `TypeScript` `Java` |
 | **Web / Backend** | `React` `Next.js` `FastAPI` `Django` `Node.js` `Express.js` |
 | **LLM APIs** | `Groq API` `Gemini API` `OpenRouter API` |
