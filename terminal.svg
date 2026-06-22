@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" width="800" height="350">
+    <style>
+        .term-bg { fill: #1e1e2e; rx: 10px; }
+        .dot-red { fill: #f38ba8; }
+        .dot-yellow { fill: #f9e2af; }
+        .dot-green { fill: #a6e3a1; }
+        .text { font-family: 'Fira Code', 'Consolas', monospace; font-size: 15px; fill: #cdd6f4; font-weight: 500; }
+        .prompt { fill: #89b4fa; font-weight: bold; }
+        .command { fill: #a6e3a1; }
+        .output { fill: #bac2de; }
+        .success { fill: #a6e3a1; font-weight: bold; }
+        .highlight { fill: #f9e2af; font-weight: bold; }
+
+        .l1 { animation: a1 12s infinite; opacity: 0; }
+        .l2 { animation: a2 12s infinite; opacity: 0; }
+        .l3 { animation: a3 12s infinite; opacity: 0; }
+        .l4 { animation: a4 12s infinite; opacity: 0; }
+        .l5 { animation: a5 12s infinite; opacity: 0; }
+        .l6 { animation: a6 12s infinite; opacity: 0; }
+        .l7 { animation: a7 12s infinite; opacity: 0; }
+        .l8 { animation: a8 12s infinite; opacity: 0; }
+        .l9 { animation: a9 12s infinite; opacity: 0; }
+        .l10 { animation: a10 12s infinite; opacity: 0; }
+
+        @keyframes a1 { 5%, 95% { opacity: 1; } 0%, 4.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a2 { 15%, 95% { opacity: 1; } 0%, 14.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a3 { 25%, 95% { opacity: 1; } 0%, 24.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a4 { 35%, 95% { opacity: 1; } 0%, 34.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a5 { 45%, 95% { opacity: 1; } 0%, 44.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a6 { 55%, 95% { opacity: 1; } 0%, 54.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a7 { 65%, 95% { opacity: 1; } 0%, 64.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a8 { 75%, 95% { opacity: 1; } 0%, 74.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a9 { 85%, 95% { opacity: 1; } 0%, 84.9%, 95.1%, 100% { opacity: 0; } }
+        @keyframes a10 { 90%, 95% { opacity: 1; } 0%, 89.9%, 95.1%, 100% { opacity: 0; } }
+    </style>
+
+    <!-- Terminal Window -->
+    <rect class="term-bg" width="800" height="350" />
+    
+    <!-- Window Controls -->
+    <circle cx="20" cy="20" r="6" class="dot-red" />
+    <circle cx="40" cy="20" r="6" class="dot-yellow" />
+    <circle cx="60" cy="20" r="6" class="dot-green" />
+    
+    <!-- Terminal Content -->
+    <g class="text" transform="translate(20, 60)">
+        <text y="0" class="l1"><tspan class="prompt">varad@machine:~$</tspan> <tspan class="command">python train.py --model resnet50 --data fire_images.csv</tspan></text>
+        <text y="30" class="l2 output">Initializing neural network architecture...</text>
+        <text y="50" class="l3 output">Epoch 1/20  [====================] 100% - loss: 0.89 - val_acc: 64.2%</text>
+        <text y="70" class="l4 output">Epoch 10/20 [====================] 100% - loss: 0.15 - val_acc: 94.7%</text>
+        <text y="90" class="l5 output">Epoch 20/20 [====================] 100% - loss: 0.02 - val_acc: 99.4%</text>
+        <text y="120" class="l6 success">✓ Training complete! Model saved to 'weights.pth'</text>
+        
+        <text y="160" class="l7"><tspan class="prompt">varad@machine:~$</tspan> <tspan class="command">docker build -t varad/ml-api . &#38;&#38; ./deploy.sh</tspan></text>
+        <text y="190" class="l8 output">Containerizing FastAPI application... Done.</text>
+        <text y="210" class="l9 output">Pushing layers to AWS ECR... Done.</text>
+        <text y="240" class="l10 highlight">🚀 Deployment Live! API endpoint: https://api.varadhajare.com/detect</text>
+    </g>
+</svg>
