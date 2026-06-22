@@ -97,6 +97,23 @@ Real-time vessel tracking app streaming live AIS data over WebSocket and plottin
 <br>
 
 <div align="center">
-    <h3>📊 Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradHajare&layout=compact&theme=transparent"/>
+    <h3>🛠️ Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradHajare&layout=compact&theme=transparent&hide_border=true&title_color=89b4fa&text_color=cdd6f4"/>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
+
+<div align="center">
+  <h2>📫 Ready to Collaborate?</h2>
+  <p>I'm always open to discussing cutting-edge ML projects, robust architecture, or innovative AI applications.</p>
+  <a href="mailto:work.varadhajare@gmail.com"><img src="https://img.shields.io/badge/Drop_a_message-f38ba8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/varad-hajare-420b2b321"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,5,9,11,18,22,23,24,25,29&height=150&section=footer"/>
 </div>
