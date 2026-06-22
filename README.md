@@ -1,10 +1,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=89b4fa&center=true&vCenter=true&width=800&height=60&lines=Greetings!+I'm+Varad+Hajare;Building+applied+ML+and+full-stack+AI+systems;Turning+data+into+intelligent+web+deployments" alt="Typing SVG" /></a>
-    <br><br>
-    <img width="250" src="./AI assistant - Animation.gif" alt="AI Assistant Animated Sprite" />
-</div>
-
-<div align="center">
+    <img width="150" src="./AI assistant - Animation.gif" alt="AI Assistant Animated Sprite" />
+    <br>
     <a href="mailto:work.varadhajare@gmail.com"><img src="https://img.shields.io/badge/-Email-f38ba8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.linkedin.com/in/varad-hajare-420b2b321"><img src="https://img.shields.io/badge/-LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.kaggle.com/varadhajare"><img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
