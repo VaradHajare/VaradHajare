@@ -97,8 +97,8 @@ Real-time vessel tracking app streaming live AIS data over WebSocket and plottin
 <br>
 
 <div align="center">
-    <h3>🛠️ Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaradHajare&layout=compact&theme=transparent&hide_border=true&title_color=89b4fa&text_color=cdd6f4"/>
+    <h3>⚡ GitHub Activity Graph</h3>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaradHajare&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 <br>
