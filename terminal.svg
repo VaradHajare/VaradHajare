@@ -51,7 +51,7 @@
         <text y="90" class="l5 output">Epoch 20/20 [====================] 100% - loss: 0.02 - val_acc: 99.4%</text>
         <text y="120" class="l6 success">✓ Training complete! Model saved to 'weights.pth'</text>
         
-        <text y="160" class="l7"><tspan class="prompt">varadhajare@machine:~$</tspan> <tspan class="command">docker build -t varadhajare/ml-api . &#38;&#38; ./deploy.sh</tspan></text>
+        <text y="160" class="l7"><tspan class="prompt">varadhajare@machine:~$</tspan> <tspan class="command">docker build -t varad/ml-api . &#38;&#38; ./deploy.sh</tspan></text>
         <text y="190" class="l8 output">Containerizing FastAPI application... Done.</text>
         <text y="210" class="l9 output">Pushing layers to AWS ECR... Done.</text>
         <text y="240" class="l10 highlight">🚀 Deployment Live! API endpoint: https://api.varadhajare.com/detect</text>
