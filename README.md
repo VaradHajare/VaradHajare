@@ -1,5 +1,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=89b4fa&center=true&vCenter=true&width=800&height=60&lines=Greetings!+I'm+Varad+Hajare;Building+applied+ML+and+full-stack+AI+systems;Turning+data+into+intelligent+web+deployments" alt="Typing SVG" /></a>
+    <br><br>
+    <img width="250" src="./AI assistant - Animation.gif" alt="AI Assistant Animated Sprite" />
 </div>
 
 <div align="center">
@@ -10,8 +12,6 @@
 </div>
 
 ## About Me
-
-<img align="right" width="250" src="./AI assistant - Animation.gif" alt="AI Assistant Animated Sprite" />
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=VaradHajare&data=followers,repositories,stars,commits&theme=dark)](https://github.com/VaradHajare)
 
