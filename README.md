@@ -115,5 +115,5 @@ Real-time vessel tracking app streaming live AIS data over WebSocket and plottin
 <br>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0077b6,00b4d8,90e0ef&height=150&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=150&section=footer"/>
 </div>
