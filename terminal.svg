@@ -44,14 +44,14 @@
     
     <!-- Terminal Content -->
     <g class="text" transform="translate(20, 60)">
-        <text y="0" class="l1"><tspan class="prompt">varad@machine:~$</tspan> <tspan class="command">python train.py --model resnet50 --data fire_images.csv</tspan></text>
+        <text y="0" class="l1"><tspan class="prompt">varadhajare@machine:~$</tspan> <tspan class="command">python train.py --model resnet50 --data fire_images.csv</tspan></text>
         <text y="30" class="l2 output">Initializing neural network architecture...</text>
         <text y="50" class="l3 output">Epoch 1/20  [====================] 100% - loss: 0.89 - val_acc: 64.2%</text>
         <text y="70" class="l4 output">Epoch 10/20 [====================] 100% - loss: 0.15 - val_acc: 94.7%</text>
         <text y="90" class="l5 output">Epoch 20/20 [====================] 100% - loss: 0.02 - val_acc: 99.4%</text>
         <text y="120" class="l6 success">✓ Training complete! Model saved to 'weights.pth'</text>
         
-        <text y="160" class="l7"><tspan class="prompt">varad@machine:~$</tspan> <tspan class="command">docker build -t varad/ml-api . &#38;&#38; ./deploy.sh</tspan></text>
+        <text y="160" class="l7"><tspan class="prompt">varadhajare@machine:~$</tspan> <tspan class="command">docker build -t varadhajare/ml-api . &#38;&#38; ./deploy.sh</tspan></text>
         <text y="190" class="l8 output">Containerizing FastAPI application... Done.</text>
         <text y="210" class="l9 output">Pushing layers to AWS ECR... Done.</text>
         <text y="240" class="l10 highlight">🚀 Deployment Live! API endpoint: https://api.varadhajare.com/detect</text>
