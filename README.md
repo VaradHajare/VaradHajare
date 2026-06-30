@@ -47,6 +47,16 @@ End-to-end computer vision system to detect forest fires from landscape imagery.
 </details>
 
 <details open>
+<summary><a href="https://github.com/VaradHajare/Kaggle-Autopilot"><b>Kaggle Autopilot</b></a></summary>
+<br>
+Autonomous agent that enters a Kaggle competition end-to-end from just its URL, running a 9-phase pipeline: ingestion, EDA with leakage detection, feature engineering, LLM-ranked model selection, Optuna-tuned cross-validation, ensembling (weighted/rank-average/stacking), submission, and an iteration loop. Built around a single Pydantic <code>RunState</code> source of truth with strict no-leakage in-fold encoding, pluggable LLM backends (Gemini/Anthropic), and full resumability from serialized state.<br><br>
+<img src="https://img.shields.io/badge/Python-89b4fa?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/LightGBM-89b4fa?style=flat-square" alt="LightGBM"/>
+<img src="https://img.shields.io/badge/Optuna-89b4fa?style=flat-square" alt="Optuna"/>
+<img src="https://img.shields.io/badge/Gemini_API-89b4fa?style=flat-square" alt="Gemini API"/>
+</details>
+
+<details open>
 <summary><a href="https://github.com/VaradHajare/Graph-Based-Money-Muling-Detection-and-Analysis"><b>Graph-Based Money Muling Detection and Analysis</b></a></summary>
 <br>
 Full-stack AML web app that builds a directed transaction graph from CSV data and detects money mule cycles, smurfing networks, and layered shell accounts using custom graph algorithms. Deterministic 0-100 suspicion scoring, interactive canvas-based graph visualization, and Groq-generated investigative reports.<br><br>
