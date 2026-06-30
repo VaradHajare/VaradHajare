@@ -18,7 +18,7 @@ I build end-to-end machine learning systems, managing the entire lifecycle from 
 const VaradHajare = {
     education: ["Computer Engineering @ AISSMS (SPPU)"],
     focus: ["Applied ML", "Full-Stack AI Systems"],
-    languages: ["Python", "C++", "JavaScript", "TypeScript", "Java"],
+    languages: ["Python", "C++", "JavaScript", "TypeScript"],
     machineLearning: {
         frameworks: ["PyTorch", "Scikit-learn", "XGBoost"],
         libraries: ["NumPy", "Pandas", "Transformers", "NLTK", "SHAP"],
@@ -76,7 +76,7 @@ Citation-backed RAG research assistant for chatting with PDFs, web articles, and
 <img src="https://img.shields.io/badge/pdfjs--dist-89b4fa?style=flat-square" alt="pdfjs-dist"/>
 </details>
 
-<details>
+<details open>
 <summary><a href="https://github.com/VaradHajare/employee-attrition-predictor"><b>Employee Attrition Predictor</b></a></summary>
 <br>
 ML classification model predicting employee attrition risk from HR data, built as a Django app and deployed on Vercel.<br><br>
@@ -86,7 +86,7 @@ ML classification model predicting employee attrition risk from HR data, built a
 <img src="https://img.shields.io/badge/Vercel-89b4fa?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </details>
 
-<details>
+<details open>
 <summary><a href="https://github.com/VaradHajare/BakersPrecisionApp"><b>Baker's Precision App</b></a></summary>
 <br>
 Converts vague baking measurements into precise units with an AI chatbot powered by the Gemini API for bakery-related queries.<br><br>
@@ -94,7 +94,7 @@ Converts vague baking measurements into precise units with an AI chatbot powered
 <img src="https://img.shields.io/badge/Chatbot-89b4fa?style=flat-square" alt="Chatbot"/>
 </details>
 
-<details>
+<details open>
 <summary><a href="https://github.com/VaradHajare/ship-tracker"><b>Ship Tracker</b></a></summary>
 <br>
 Real-time vessel tracking app streaming live AIS data over WebSocket and plotting ship positions, headings, and metadata on an interactive map.<br><br>
@@ -103,6 +103,13 @@ Real-time vessel tracking app streaming live AIS data over WebSocket and plottin
 <img src="https://img.shields.io/badge/Leaflet.js-89b4fa?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet.js"/>
 <img src="https://img.shields.io/badge/AISStream-89b4fa?style=flat-square" alt="AISStream"/>
 </details>
+
+<br>
+
+<div align="center">
+    <h3>📊 GitHub Stats</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaradHajare&theme=tokyonight&hide_border=true&background=0D1117" height="170" alt="GitHub Streak"/>
+</div>
 
 <br>
 
